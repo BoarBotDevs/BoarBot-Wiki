@@ -91,9 +91,9 @@ By putting the > symbol before a line, that line will be a quote box.
 
 By using the format \[Text\]\(Link\) you can link to other pages on the web. 
 
-[I am linking to the "How to Contribute" page.](http://localhost:3000/How%20to%20Contribute)
+[I am linking to the "How to Contribute" page.](https://wiki.boarbot.dev/How%20to%20Contribute)
 
-\[I am linking to the "How to Contribute page.\]\(http://localhost:3000/How%20to%20Contribute\)
+\[I am linking to the "How to Contribute page.\]\(https://wiki.boarbot.dev/How%20to%20Contribute\)
 
 Keep in mind that that when linking internally to the wiki itself, the localhost link will have to be charged to a wiki.boarbot.dev link.
 
