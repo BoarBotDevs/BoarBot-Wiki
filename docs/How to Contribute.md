@@ -128,9 +128,9 @@ This is the contents of the danger box.
 ### Images
 You can link to any images that are in the static\img folder. You can link to the images by using the phrase !\[Image\](\img\IMAGE_FILE_LOCATION)
 
-![Normal Boar](/img/NormalBoar.png)
+![Normal Boar](\img\boars\NormalBoar.png)
 
-\!\[Normal Boar\]\(/img/Normal Boar.png\)
+\!\[Normal Boar\]\(\img\boars\NormalBoar.png\)
 
 Keep in mind that you must keep the file extension.
 
