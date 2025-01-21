@@ -77,7 +77,7 @@ Large Code Block
 
 \`\`\`
 
-Generally, the large code block is used for multiple lines, while the small block is used for single lines. Addionally, remember that the \` symbol is the grave, not the apostrophe or quotation marks.
+Generally, the large code block is used for multiple lines, while the small block is used for single lines. Addionally, remember that the \` symbol is the backtick (sometimes known as grave), not the apostrophe or quotation marks.
 
 ### Quotation Boxes
 
