@@ -64,7 +64,7 @@ const config = {
       },
       colorMode: {
         disableSwitch: true,
-      },
+      }
     }),
 };
 
