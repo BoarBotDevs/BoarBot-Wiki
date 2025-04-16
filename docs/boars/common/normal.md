@@ -32,3 +32,4 @@ The first edition of Normal Boar in BoarBot was obtained by user **ruletka**.
 
 ## History
 
+This boar is featured in a Powerup - Trivia question.
